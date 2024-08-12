@@ -1,0 +1,26 @@
+Apache Kafka:
+A distributed streaming platform that can handle real-time data feeds.
+Elasticsearch:
+A search engine based on the Lucene library, useful for indexing and searching large datasets.
+Apache NiFi:
+A data integration tool that supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
+Google BigQuery:
+A fully-managed, serverless data warehouse that enables super-fast SQL queries using the processing power of Google's infrastructure.
+Amazon Kinesis:
+A platform on AWS to collect, process, and analyze real-time, streaming data.
+Azure Data Factory:
+A cloud-based data integration service that allows you to create data-driven workflows for orchestrating data movement and transforming data at scale.
+Talend:
+An open-source data integration platform that provides tools for data integration, data management, enterprise application integration, data quality, cloud storage, and Big Data.
+Apache Flink:
+A stream processing framework that can handle both batch and stream processing.
+Splunk:
+A platform for searching, monitoring, and analyzing machine-generated big data via a web-style interface.
+Hadoop:
+An open-source framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+Feel free to explore these tools and see which ones best fit your needs for intelligent things. Goodbye and take care! :3
+
+
+Source
+Read More
+VSCode
