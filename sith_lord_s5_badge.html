@@ -1,0 +1,33 @@
+<a href="https://app.commanddash.io/agent?github=https://github.com/amanaknows/intelligent-things" target="_blank">
+    <img src="https://img.shields.io/badge/Sith%20Lord%20S5-AI%20Automation%20Dark%20Side%20Control-black?style=for-the-badge&logo=dark-mode&logoColor=white&labelColor=black" alt="AI Automation Dark Side Control Badge">
+</a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sith Lord S5 Badge</title>
+</head>
+<body>
+    <h1>AI Automation Dark Side Control Badge</h1>
+    <a href="https://app.commanddash.io/agent?github=https://github.com/amanaknows/intelligent-things" target="_blank">
+        <img src="https://img.shields.io/badge/Sith%20Lord%20S5-AI%20Automation%20Dark%20Side%20Control-black?style=for-the-badge&logo=dark-mode&logoColor=white&labelColor=black" alt="AI Automation Dark Side Control Badge">
+    </a>
+</body>
+</html>
+
+// '''python 
+pip install Flask
+from flask import Flask, send_from_directory
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return send_from_directory('.', 'sith_lord_s5_badge.html')
+
+if __name__ == '__main__':
+    app.run(debug=True)
+
+// python serve_badge.py
